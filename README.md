@@ -11,7 +11,7 @@ A complete decompilation of Retro Engine v3
     * Via the Epic Games Store, from [Sonic Origins](https://store.epicgames.com/en-US/p/sonic-origins)
   * Nintendo Switch, from [Sonic Origins on the eShop](https://www.nintendo.com/games/detail/sonic-origins-switch/)
   * iOS, Via the App Store
-  * Android, Via Google Play or Amazon
+  * Android, Via Google Play or Amazon4444444444444444444444444444
     * Note that the mobile releases have been delisted. However, if you have downloaded one of these releases in the past, you can redownload it at any time in your device or store account's purchase history.
 
 Even if your platform isn't supported by the official releases, you **must** buy or officially download it for the assets (you don't need to run the official release, you just need the game assets). See [here](https://rsdkmodding.com/Guides/Games/SonicCD/Datapack/) for a guide on how to find the required assets from your legally obtained copy of the game. Note that only FMV files from the original Steam release of the game are supported; mobile and Origins video files do not work.
